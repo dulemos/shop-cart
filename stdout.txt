@@ -1,0 +1,25 @@
+  console.log
+    524.96
+
+      at getNetTotal (src/index.js:53:10)
+
+  console.log
+    404.96000000000004
+
+      at getNetTotal (src/index.js:53:10)
+
+  console.log
+    504.95000000000005
+
+      at getNetTotal (src/index.js:53:10)
+
+  console.log
+    524.96
+
+      at getNetTotal (src/index.js:53:10)
+
+  console.log
+    784.94
+
+      at getNetTotal (src/index.js:53:10)
+
